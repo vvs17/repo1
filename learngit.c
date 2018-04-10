@@ -12,7 +12,7 @@ int main() {
 }
 
 int soma(int x, int y) {
-    return x + y;
+    return x + y + x + y;
 }
 
 int media(int x, int y) {
