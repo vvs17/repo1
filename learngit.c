@@ -5,7 +5,7 @@ int media(int x, int y);
 
 int main() {
     int x = 2;
-    int y = 4;
+    int y = 17;
 
     int res1 = soma(x,y);
     int res2 = media(x,y);
