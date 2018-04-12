@@ -9,6 +9,8 @@ int main() {
 
     int res1 = soma(x,y);
     int res2 = media(x,y);
+
+    return 0;
 }
 
 int soma(int x, int y) {
